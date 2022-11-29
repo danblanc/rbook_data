@@ -1,0 +1,1001 @@
+id,date,product,revenue,city,product_type
+1,26/3/2020,Lettuce - Belgian Endive,3139,Laxey,premiun
+2,27/5/2020,Table Cloth 91x91 Colour,4726,Svyetlahorsk,regular
+3,24/6/2020,Pur Source,3117,Cabuyao,
+4,10/7/2020,Syrup - Monin - Blue Curacao,2575,Nouakchott,regular
+5,22/7/2020,Steamers White,3136,Timrat,gold
+6,11/3/2020,Wine - Delicato Merlot,1939,Glinojeck,gold
+7,1/6/2020,Island Oasis - Magarita Mix,2283,Châteauroux,gold
+8,15/8/2020,Lid Coffee Cup 8oz Blk,1444,Líbano,premiun
+9,4/11/2020,"Nut - Pecan, Halves",2158,Izumi,gold
+10,20/12/2020,"Lemonade - Black Cherry, 591 Ml",3853,Muramatsu,gold
+11,6/4/2020,Coffee Cup 16oz Foam,4999,Yên Lập,premiun
+12,9/2/2021,Longos - Burritos,2841,Padangtiji,premiun
+13,30/1/2021,Beef Striploin Aaa,2250,Shangyanzhuang,gold
+14,1/11/2020,Bar - Sweet And Salty Chocolate,4770,Kerikeri,regular
+15,8/7/2020,Table Cloth 72x144 White,1343,Morelos,regular
+16,13/8/2020,Beer - Maudite,1773,Rancagua,premiun
+17,13/2/2020,Oxtail - Cut,1125,Tochigi,premiun
+18,15/6/2020,"Veal - Insides, Grains",2959,Leicheng,premiun
+19,24/6/2020,Plastic Arrow Stir Stick,1406,Daxin,gold
+20,11/3/2020,"Liners - Banana, Paper",4949,Fenglai,gold
+21,16/9/2020,"Wine - Mas Chicet Rose, Vintage",1984,Sanxi,gold
+22,7/9/2020,Yukon Jack,3727,Moville,premiun
+23,29/5/2020,,1776,Bāzārak,regular
+24,24/3/2020,Lid Tray - 16in Dome,1270,Saguing,regular
+25,11/8/2020,,1723,Gaocang,gold
+26,5/10/2020,Chocolate Bar - Smarties,1969,Rizal,regular
+27,6/9/2020,Tea - Decaf 1 Cup,4202,Mrganush,gold
+28,9/3/2020,"Bread - Multigrain, Loaf",1190,Aveiras de Cima,premiun
+29,27/5/2020,Lamb Rack - Ontario,4605,Paihia,gold
+30,14/3/2020,Chocolate - Mi - Amere Semi,3540,Lañgub,regular
+31,18/8/2020,Cheese - Gouda Smoked,,,gold
+32,2/5/2020,Apple - Granny Smith,4848,Cineumbeuy,premiun
+33,14/5/2020,Chocolate - Liqueur Cups With Foil,1607,Borjomi,gold
+34,17/3/2020,Chocolate - Feathers,2755,Sisŏphŏn,gold
+35,23/7/2020,Pie Filling - Pumpkin,1213,Tlogotunggal,regular
+36,20/3/2020,Carbonated Water - Orange,4105,Orenburg,regular
+37,2/12/2020,Appetizer - Sausage Rolls,1898,Edéa,premiun
+38,6/5/2020,"Shrimp - Baby, Warm Water",4657,Eirado,premiun
+39,15/2/2020,"Nut - Pecan, Halves",1578,Xiangyangpu,premiun
+40,26/5/2020,Dish Towel,4149,Fuyu,gold
+41,21/3/2020,,2168,Zishan,premiun
+42,3/3/2020,Pastry - Carrot Muffin - Mini,1143,Siasi,premiun
+43,1/8/2020,"Tuna - Canned, Flaked, Light",1741,Vasylkiv,premiun
+44,10/12/2020,Wine - Domaine Boyar Royal,2893,Ōdate,premiun
+45,2/1/2021,"Pasta - Shells, Medium, Dry",2987,Taywanak Ilaya,premiun
+46,4/4/2020,Sherbet - Raspberry,4918,Chenyangzhai,premiun
+47,16/7/2020,Cardamon Seed / Pod,2288,Yingcheng,gold
+48,13/2/2020,Beans - Butter Lrg Lima,,,gold
+49,28/8/2020,Lobak,2394,Probolinggo,gold
+50,17/4/2020,Soup - French Can Pea,3369,Kyzylzhar,regular
+51,10/9/2020,Island Oasis - Magarita Mix,3601,Maringá,gold
+52,1/2/2021,Puree - Blackcurrant,2091,Yosowilangun,regular
+53,,Rice Paper,4172,Shuanghe,gold
+54,3/12/2020,Molasses - Fancy,4627,Ōi,premiun
+55,9/9/2020,Tea Leaves - Oolong,2521,Schaan,gold
+56,13/6/2020,"Mushroom - Chantrelle, Fresh",4128,Maszkienice,premiun
+57,18/8/2020,Truffle - Peelings,3696,Idanre,gold
+58,11/8/2020,Bread - Corn Muffaleta Onion,2246,Donggang,regular
+59,10/8/2020,Island Oasis - Banana Daiquiri,1907,Naekan,regular
+60,5/9/2020,"Pasta - Linguini, Dry",4543,Bardalah,premiun
+61,19/1/2021,"Syrup - Golden, Lyles",2769,Villanueva,premiun
+62,29/10/2020,,3525,Shaxi,regular
+63,21/7/2020,"Cup - 6oz, Foam",1163,Stegna,premiun
+64,26/4/2020,Hagen Daza - Dk Choocolate,3510,Xo’jayli Shahri,regular
+65,6/3/2020,Bread - Ciabatta Buns,4427,Richmond,gold
+66,18/11/2020,External Supplier,4671,Jorong Lauk,regular
+67,29/5/2020,Scallops - In Shell,3451,Jiangqiao,regular
+68,3/9/2020,Garam Marsala,4380,Enjitsu,regular
+69,23/4/2020,Eel - Smoked,4527,Bang Kaeo,premiun
+70,27/2/2020,Pie Shells 10,3994,Santa Teresa First,regular
+71,20/8/2020,Wine - Crozes Hermitage E.,4761,Quebrada Canoa,regular
+72,31/10/2020,Sambuca - Ramazzotti,2236,Weifang,premiun
+73,24/12/2020,,2478,Sangkulirang,gold
+74,24/4/2020,"Brandy - Orange, Mc Guiness",3828,Beisijia,premiun
+75,13/6/2020,Bread - Italian Corn Meal Poly,2797,Oemofa,gold
+76,29/5/2020,"Bar Mix - Pina Colada, 355 Ml",4560,Shezhu,premiun
+77,23/10/2020,Beans - French,1844,Złotoryja,premiun
+78,17/1/2021,"Clams - Littleneck, Whole",1661,Changhan,regular
+79,9/5/2020,"Soup - French Onion, Dry",2226,Patos,premiun
+80,,Wine - Fat Bastard Merlot,2862,Lanling,regular
+81,29/9/2020,Smoked Paprika,2799,Yambol,premiun
+82,25/4/2020,Bar - Sweet And Salty Chocolate,3146,Umeå,gold
+83,10/4/2020,Bread - Assorted Rolls,4630,Zaleszany,regular
+84,27/2/2020,Pie Shell - 9,1002,Wiang Nuea,regular
+85,5/6/2020,Pastry - Apple Muffins - Mini,4596,Hamburg,regular
+86,24/12/2020,Compound - Rum,1195,Palaiomonástiron,gold
+87,18/3/2020,Food Colouring - Green,1389,Karasuyama,premiun
+88,31/8/2020,Papadam,3527,Teminabuan,gold
+89,25/6/2020,Sugar - Crumb,3639,Lunen,gold
+90,28/10/2020,Halibut - Fletches,3539,Chaloem Phra Kiat,gold
+91,25/12/2020,Bacardi Breezer - Tropical,3414,New Westminster,gold
+92,1/9/2020,Mushroom - Crimini,1825,Sanlanbahai,regular
+93,1/9/2020,"Bread - Rolls, Rye",1083,Jungkat Selatan,gold
+94,18/3/2020,Tea - Orange Pekoe,3186,Wakaseko,regular
+95,12/9/2020,Appetizer - Veg Assortment,4252,San Juan,premiun
+96,31/1/2021,Bread Crumbs - Panko,2142,Peoria,premiun
+97,15/7/2020,Mayonnaise - Individual Pkg,3586,Älvängen,regular
+98,7/11/2020,V8 - Vegetable Cocktail,2321,Donghai,premiun
+99,28/2/2020,Wine - Blue Nun Qualitatswein,4196,Cabog,gold
+100,19/7/2020,,3873,Zhosaly,premiun
+101,19/11/2020,"Syrup - Monin, Swiss Choclate",4791,Banjarjo,gold
+102,9/4/2020,Containter - 3oz Microwave Rect.,4862,Daba,gold
+103,15/11/2020,Soup - Campbells Chili Veg,4996,Dakoutun,gold
+104,12/10/2020,Scotch - Queen Anne,2850,Cikembang,premiun
+105,16/9/2020,Wine - Tribal Sauvignon,3681,La Soledad,gold
+106,28/3/2020,Beer - Guiness,4438,Asenovgrad,regular
+107,5/5/2020,Ice Cream - Super Sandwich,3744,Zaymishche,regular
+108,26/12/2020,Beef - Montreal Smoked Brisket,2686,Krasnomayskiy,premiun
+109,1/8/2020,Bread - Wheat Baguette,2888,Simi Valley,premiun
+110,24/4/2020,Pie Filling - Pumpkin,4945,Färjestaden,gold
+111,26/2/2020,Pasta - Angel Hair,1630,Easington,gold
+112,25/12/2020,"Cookies - Oreo, 4 Pack",4384,Leipzig,gold
+113,24/1/2021,Bread - Calabrese Baguette,2531,Huangqiang,premiun
+114,10/9/2020,Crab - Soft Shell,1703,Xiangshan,premiun
+115,30/7/2020,Eggplant - Asian,2934,Betong,regular
+116,15/7/2020,Shiro Miso,4034,Naukšēni,premiun
+117,3/2/2021,Pepper - Red Chili,3907,Pio,regular
+118,1/5/2020,Squid - Breaded,3077,København,premiun
+119,25/10/2020,Plasticforkblack,1797,Camp Ithier,premiun
+120,16/4/2020,"Jam - Raspberry,jar",1175,São Roque,gold
+121,19/4/2020,,3570,Wanshi,gold
+122,2/10/2020,Bag - Clear 7 Lb,1277,Klampok,premiun
+123,21/4/2020,Tea - Lemon Scented,2337,Xhafzotaj,regular
+124,2/2/2021,Gatorade - Xfactor Berry,4425,Tempursari Wetan,gold
+125,10/6/2020,,3356,Kae Dam,regular
+126,22/11/2020,Beer - Tetleys,1259,Yanaoca,gold
+127,12/2/2020,Coffee Cup 8oz 5338cd,2189,Bhairāhawā,gold
+128,18/11/2020,Goldschalger,4970,Zargarān,premiun
+129,31/12/2020,"Potatoes - Purple, Organic",4351,Busay,premiun
+130,28/10/2020,Lettuce - Boston Bib,1869,Sleman,gold
+131,19/6/2020,,2195,"Palmas De Gran Canaria, Las",premiun
+132,15/4/2020,"Salt - Rock, Course",1150,La Tuque,gold
+133,25/7/2020,Cloves - Whole,1665,João Câmara,regular
+134,29/7/2020,Lettuce - Radicchio,4023,Alcaria,regular
+135,31/10/2020,The Pop Shoppe Pinapple,2915,Radzanów,regular
+136,28/3/2020,Bread - Bistro Sour,1665,Paris 08,premiun
+137,16/1/2021,"Pepper - Black, Ground",2544,Independencia,
+138,8/5/2020,Sauerkraut,1778,Ulichnoye,regular
+139,4/11/2020,Danishes - Mini Raspberry,3367,Spånga,premiun
+140,13/4/2020,Sauce - Sesame Thai Dressing,3152,Jenzan,regular
+141,16/2/2020,Muffin - Zero Transfat,4314,Vikbolandet,gold
+142,28/5/2020,Container - Clear 32 Oz,1661,Kuantan,premiun
+143,8/11/2020,"Doilies - 8, Paper",3134,Suphan Buri,regular
+144,11/2/2020,Bread - Crusty Italian Poly,2389,Dalaba,premiun
+145,22/12/2020,"Pork - Loin, Boneless",1415,Örebro,premiun
+146,27/12/2020,Pastry - Baked Cinnamon Stick,4433,Ivry-sur-Seine,
+147,22/7/2020,Ocean Spray - Kiwi Strawberry,4366,Jargalant,gold
+148,12/8/2020,Dill Weed - Dry,1204,Libice nad Cidlinou,gold
+149,21/7/2020,Gatorade - Orange,3725,Laboulaye,premiun
+150,29/4/2020,Paper Towel Touchless,4915,Shibīn al Qanāţir,premiun
+151,6/7/2020,,1605,Trindade,gold
+152,25/7/2020,Bag Clear 10 Lb,4833,Rizal,regular
+153,24/9/2020,Chocolate Liqueur - Godet White,4890,Slobodka,gold
+154,5/4/2020,Sauce - Sesame Thai Dressing,3657,Huayuan,regular
+155,17/9/2020,Water - Spring 1.5lit,1718,Jincheng,gold
+156,26/2/2020,Sea Bass - Whole,1701,Hanjia,regular
+157,31/5/2020,"Tart Shells - Barquettes, Savory",4534,East Angus,regular
+158,5/8/2020,Chocolate - Compound Coating,2550,Santa Rita Village,premiun
+159,27/8/2020,Cheese - Mix,4059,Gabi,gold
+160,23/7/2020,"Pasta - Gnocchi, Potato",1420,Bagdadi,
+161,8/7/2020,Venison - Liver,2074,Wielgie,regular
+162,26/10/2020,General Purpose Trigger,4356,Numeto,
+163,17/4/2020,,3813,Guyang,gold
+164,14/4/2020,"Wine - White, Riesling, Henry Of",4867,Tsimlyansk,premiun
+165,26/4/2020,Peach - Halves,4754,Córdoba,regular
+166,24/9/2020,Muffin - Blueberry Individual,2625,Qinggou,gold
+167,12/10/2020,Sauce - Hollandaise,2803,Jiaoxie,premiun
+168,19/12/2020,Towel Dispenser,3839,Magisterial,premiun
+169,20/9/2020,Wine - Jafflin Bourgongone,1452,Hingatungan,premiun
+170,17/9/2020,Cheese - Montery Jack,4312,Vladislav,regular
+171,20/6/2020,Bread - Wheat Baguette,1281,Longsheng,premiun
+172,16/4/2020,Potato - Sweet,4804,Kratié,
+173,7/3/2020,Seabream Whole Farmed,4623,Shendang,regular
+174,3/3/2020,Dried Cherries,,,regular
+175,11/4/2020,Salt - Kosher,3625,Baizhong,premiun
+176,15/1/2021,Kolrabi,1105,Alung,regular
+177,12/9/2020,Foil Wrap,4725,Gielniów,regular
+178,7/6/2020,Beer - Sleeman Fine Porter,2111,Banjar,
+179,22/11/2020,Watercress,3615,Khryashchevka,regular
+180,27/2/2020,"Coke - Classic, 355 Ml",3750,Dungloe,premiun
+181,7/1/2021,Wine La Vielle Ferme Cote Du,4152,Zhengmo,regular
+182,13/12/2020,Chocolate - Dark Callets,2886,Batulenger Barat,regular
+183,27/1/2021,Bread - White Mini Epi,4757,Fujinomiya,gold
+184,7/9/2020,Crackers - Graham,3882,Vigan,regular
+185,25/11/2020,,3764,Bodĭ,gold
+186,3/11/2020,Oil - Peanut,3163,Lugar Novo,regular
+187,12/6/2020,Pork - Bacon Cooked Slcd,4230,Langtad,regular
+188,31/5/2020,Yoplait - Strawbrasp Peac,4073,Šentilj v Slov. Goricah,regular
+189,24/12/2020,Chocolate Liqueur - Godet White,4738,Pembuanghulu,premiun
+190,19/8/2020,"Pork - Bacon, Double Smoked",2678,Bromma,premiun
+191,23/12/2020,"Cherries - Maraschino,jar",1486,Visby,regular
+192,10/10/2020,Flour - Strong,4191,Trafaria,
+193,1/4/2020,Pastry - Cherry Danish - Mini,3542,Hirakata,premiun
+194,11/9/2020,Cheese - Feta,2440,Tomepampa,gold
+195,24/1/2021,"Pasta - Lasagna Noodle, Frozen",2643,Shaxi,regular
+196,26/4/2020,Pork - Caul Fat,4711,Lianxia,regular
+197,14/2/2020,Crab - Imitation Flakes,1525,Jianggang,premiun
+198,24/11/2020,Pepper - Yellow Bell,2750,Kowale Oleckie,premiun
+199,3/12/2020,Pork - Suckling Pig,4317,Yamaguchi-shi,premiun
+200,31/3/2020,Lettuce - Spring Mix,2765,Tipitapa,regular
+201,21/10/2020,Miso Paste White,2871,Tiecun,gold
+202,17/7/2020,Grenadillo,3532,Labrang,regular
+203,8/5/2020,Pepper Squash,3744,Nałęczów,gold
+204,2/5/2020,Flower - Dish Garden,1878,Jiangchuanlu,
+205,5/10/2020,Instant Coffee,2329,Krajan,gold
+206,11/2/2020,"Lemonade - Strawberry, 591 Ml",3605,Bentengjawa,regular
+207,30/11/2020,Bay Leaf Ground,2112,Ţūbās,regular
+208,29/8/2020,Salmon Steak - Cohoe 8 Oz,2241,Eirol,regular
+209,2/6/2020,Veal - Striploin,4116,Maluko,regular
+210,16/2/2020,"Halibut - Whole, Fresh",2518,Gucheng,
+211,18/11/2020,Coffee Caramel Biscotti,4544,Saint-Sauveur,premiun
+212,13/1/2021,"Beef - Tongue, Cooked",2384,Diepsloot,gold
+213,21/5/2020,Garbage Bags - Clear,1189,Xiangcunxiang,regular
+214,24/6/2020,Tarragon - Fresh,2257,Zaragoza,regular
+215,6/6/2020,Bread - Onion Focaccia,1446,Santa Bárbara d'Oeste,regular
+216,13/6/2020,Chips - Doritos,4907,Lobatse,gold
+217,14/4/2020,Crush - Cream Soda,1960,Tanglag,gold
+218,14/7/2020,Cheese - Comte,1110,Växjö,regular
+219,8/4/2020,Wine - Soave Folonari,1660,Gavrilov-Yam,regular
+220,8/11/2020,Bandage - Finger Cots,3837,Pujocucho,gold
+221,15/1/2021,Bouillion - Fish,3618,Oeoh,regular
+222,20/11/2020,French Kiss Vanilla,4857,Zhangping,gold
+223,14/9/2020,Cod - Black Whole Fillet,4233,Berdyans’k,regular
+224,28/3/2020,Loquat,1602,Novokubansk,premiun
+225,13/3/2020,Sugar - Splenda Sweetener,1026,Were Īlu,regular
+226,13/2/2020,Shark - Loin,4795,White River,gold
+227,31/7/2020,Aspic - Clear,4931,Mikumi,premiun
+228,,Bread - Mini Hamburger Bun,1173,Bankeryd,premiun
+229,12/8/2020,Danishes - Mini Raspberry,3283,Tuanfeng,regular
+230,12/12/2020,Muffin Mix - Lemon Cranberry,1900,Villa Santa Rita,gold
+231,15/2/2020,Oil - Avocado,3059,Poroj,regular
+232,13/5/2020,Glucose,1472,Bodø,premiun
+233,4/3/2020,Glaze - Clear,2943,Mourelos,premiun
+234,24/11/2020,Cheese - Wine,4946,Vitória,premiun
+235,26/5/2020,"Asparagus - Green, Fresh",4529,København,premiun
+236,21/1/2021,Carbonated Water - Blackcherry,2291,Zhizhong,premiun
+237,28/10/2020,Fireball Whisky,1930,Tabatinga,regular
+238,5/11/2020,Cranberries - Fresh,3742,Nyimba,regular
+239,16/6/2020,Almonds Ground Blanched,3198,Dabao’anzhen,regular
+240,19/12/2020,Cheese - Bakers Cream Cheese,4230,Bandong,
+241,4/9/2020,Mix - Cappucino Cocktail,1534,Aroeira,regular
+242,25/3/2020,Pork - Shoulder,4997,Gremyachinsk,premiun
+243,13/1/2021,Mahi Mahi,1535,Sindangraja,premiun
+244,25/4/2020,Raspberries - Fresh,3609,Kisarazu,gold
+245,29/6/2020,Sobe - Lizard Fuel,1072,Chaiyaphum,regular
+246,16/9/2020,Cheese - Grie Des Champ,4203,Kurunegala,premiun
+247,14/1/2021,Cookie Trail Mix,4857,Emiliano Zapata,premiun
+248,21/9/2020,Squash - Sunburst,3463,Łopuszna,premiun
+249,7/3/2020,Russian Prince,1499,Xiaocun,regular
+250,11/8/2020,"Shrimp - 21/25, Peel And Deviened",2768,Västerås,
+251,9/11/2020,,1840,Andrézieux-Bouthéon,premiun
+252,12/7/2020,,2530,San Jerónimo,premiun
+253,11/2/2020,Tumeric,2706,Čerčany,gold
+254,27/8/2020,Steam Pan - Half Size Deep,4716,Xai-Xai,regular
+255,18/11/2020,Cotton Wet Mop 16 Oz,,,regular
+256,31/5/2020,Cornflakes,3041,Luoqi,
+257,6/10/2020,Liqueur - Melon,1378,Žrnovnica,premiun
+258,2/12/2020,Spinach - Spinach Leaf,3406,Gus’-Zheleznyy,premiun
+259,7/1/2021,Bread - Ciabatta Buns,1792,General Elizardo Aquino,premiun
+260,30/7/2020,Tomatoes - Heirloom,3843,Qingshui,premiun
+261,26/10/2020,Monkfish - Fresh,3161,Obukhiv,gold
+262,22/4/2020,"Lamb - Leg, Diced",1226,Kosai-shi,premiun
+263,26/9/2020,Oysters - Smoked,4008,Mosopa,premiun
+264,9/2/2021,"Bread - White, Sliced",1265,Miastków Kościelny,
+265,8/6/2020,The Pop Shoppe - Lime Rickey,4304,Nekhayevskiy,premiun
+266,13/4/2020,Fireball Whisky,1498,Colos,regular
+267,1/12/2020,"Juice - Apple, 1.36l",3521,Stockholm,premiun
+268,19/4/2020,Snapple - Iced Tea Peach,2517,Herrljunga,regular
+269,20/1/2021,"Juice - Tomato, 48 Oz",1383,Yasynuvata,gold
+270,18/12/2020,Wine - Carmenere Casillero Del,3059,Cabrobó,regular
+271,22/8/2020,Garbage Bag - Clear,2792,Santa Luzia,gold
+272,4/1/2021,"Pail - 4l White, With Handle",3332,Yuantan,premiun
+273,5/11/2020,"Radish - Black, Winter, Organic",4717,Namysłów,premiun
+274,1/8/2020,Bread - White Epi Baguette,4508,Marco,regular
+275,28/7/2020,Yoghurt Tubes,2605,Campo Formoso,gold
+276,24/6/2020,Artichoke - Fresh,3235,Dhībīn,gold
+277,30/1/2021,"Wine - White, Ej",3597,Slobodka,
+278,30/7/2020,Rhubarb,4605,Klimontów,premiun
+279,7/8/2020,Octopus,2056,Wādī as Salqā,premiun
+280,4/2/2021,Pomello,2268,Cigagade,regular
+281,31/7/2020,Cocoa Feuilletine,1310,Anggana,gold
+282,5/3/2020,Cup - 8oz Coffee Perforated,4907,Bilao,premiun
+283,26/1/2021,Onions - Cippolini,2964,Rathdrum,
+284,1/4/2020,Cherries - Fresh,1156,Johanneshov,regular
+285,2/9/2020,Wine - Prosecco Valdobienne,3692,Chumpi,premiun
+286,27/4/2020,Beef Striploin Aaa,4467,Dalar,gold
+287,16/9/2020,Seedlings - Clamshell,3918,Yangzi Jianglu,gold
+288,19/3/2020,Chinese Foods - Chicken Wing,3415,Cleveland,
+289,13/12/2020,Thyme - Fresh,1061,Claresholm,regular
+290,1/2/2021,French Kiss Vanilla,3240,Santiaoshi,regular
+291,3/11/2020,Greens Mustard,4830,Juhaynah,regular
+292,2/7/2020,"Yogurt - Banana, 175 Gr",3699,Baopukang,regular
+293,15/2/2020,Roe - Flying Fish,2365,Ketangi,regular
+294,25/4/2020,Rice - Basmati,3395,Tracal,regular
+295,18/8/2020,Icecream - Dstk Cml And Fdg,4439,Temizhbekskaya,regular
+296,27/2/2020,Fond - Chocolate,2041,Tunbao,regular
+297,13/4/2020,Soup - Campbells Pasta Fagioli,2667,Tsukumiura,premiun
+298,20/4/2020,Island Oasis - Ice Cream Mix,2673,Jianjiang,gold
+299,16/4/2020,"Doilies - 5, Paper",2960,Áthyra,gold
+300,16/4/2020,Kaffir Lime Leaves,3608,Pasarbaru,regular
+301,16/5/2020,Pastry - Apple Large,3516,Przyborów,gold
+302,14/3/2020,"Water - Mineral, Carbonated",2266,Batanamang,regular
+303,9/5/2020,"Loaf Pan - 2 Lb, Foil",4368,Pamoyanan,premiun
+304,13/6/2020,Flour Dark Rye,2914,Chishtiān Mandi,premiun
+305,6/11/2020,Hot Choc Vending,3439,Hovås,regular
+306,2/12/2020,Soup - Campbellschix Stew,3809,Riga,gold
+307,,Table Cloth 81x81 White,1190,Qihama,gold
+308,21/3/2020,Energy Drink - Franks Pineapple,2628,Angostura,gold
+309,21/5/2020,Lamb - Bones,2669,Cipunglu,gold
+310,10/3/2020,Milk Powder,2124,Hewan,premiun
+311,16/10/2020,"Brandy - Orange, Mc Guiness",3531,Saint-Flour,premiun
+312,24/8/2020,Wine - Duboeuf Beaujolais,4880,Las Flores,gold
+313,18/7/2020,Appetizer - Shrimp Puff,2250,Gechuan,gold
+314,23/5/2020,Sugar - Icing,1617,Karlstad,regular
+315,21/2/2020,Beer - Pilsner Urquell,2070,Datong,regular
+316,17/6/2020,Wine - Chateau Bonnet,1317,Bonabéri,premiun
+317,9/3/2020,Sugar - Palm,1511,Nový Knín,premiun
+318,18/6/2020,Appetizer - Asian Shrimp Roll,3154,Santa,gold
+319,12/3/2020,Pepper - Green,3738,Hovězí,regular
+320,29/4/2020,Sour Puss Sour Apple,4638,Kindu,
+321,29/8/2020,Savory,4555,Seka,premiun
+322,21/4/2020,Chick Peas - Canned,1047,Agpangi,premiun
+323,30/3/2020,Numi - Assorted Teas,3488,Plérin,gold
+324,12/5/2020,"Turkey - Whole, Fresh",4235,Kaiapoi,premiun
+325,20/11/2020,Sauce - Fish 25 Ozf Bottle,2491,San Sebastian,premiun
+326,11/2/2020,Beer - Labatt Blue,1269,Madrid,regular
+327,28/5/2020,"Pork - Loin, Center Cut",3403,Hamanoichi,gold
+328,3/9/2020,"Yogurt - Cherry, 175 Gr",2795,Wierzawice,
+329,20/2/2020,Veal - Leg,4293,Jiuhua,premiun
+330,22/4/2020,Wine - Chianti Classica Docg,2706,Nempel,gold
+331,20/4/2020,Flower - Daisies,4588,Sidorejo,premiun
+332,19/6/2020,Flavouring - Rum,2285,Nahrīn,regular
+333,22/6/2020,Beer - Upper Canada Lager,,,regular
+334,4/11/2020,Veal - Osso Bucco,1342,Turze Pole,premiun
+335,14/6/2020,Cookie Dough - Peanut Butter,3126,Sacramento,regular
+336,13/6/2020,Chip - Potato Dill Pickle,1834,Alvide,premiun
+337,21/3/2020,Towel - Roll White,1704,Jiulian,premiun
+338,3/7/2020,Wine - Duboeuf Beaujolais,4785,Xunzhong,regular
+339,6/8/2020,"Pineapple - Canned, Rings",2508,Dolno Palčište,gold
+340,20/7/2020,"Pasta - Penne, Rigate, Dry",4750,Vitoria-Gasteiz,regular
+341,29/5/2020,Beef - Rib Eye Aaa,3303,Moroto,premiun
+342,17/5/2020,,3019,Longchiqiao,gold
+343,13/1/2021,Dc - Frozen Momji,1287,Vityazevo,premiun
+344,7/6/2020,Tuna - Sushi Grade,1357,Tofa,regular
+345,16/6/2020,Bread - Multigrain,1203,Mpraeso,gold
+346,16/4/2020,Bagelers,2639,Maubara,gold
+347,3/6/2020,"Nut - Chestnuts, Whole",2761,Sidamukti,premiun
+348,14/8/2020,Salt - Celery,2532,Qijiaxi,regular
+349,30/4/2020,Bagels Poppyseed,3725,Phultala,gold
+350,23/3/2020,Catfish - Fillets,4106,Velenje,gold
+351,11/3/2020,Plate Pie Foil,2657,Lyon,regular
+352,13/1/2021,Sausage - Breakfast,2633,Danirai,premiun
+353,18/12/2020,Bread - Calabrese Baguette,,,gold
+354,21/6/2020,Sprouts - Corn,1533,Fubei,gold
+355,26/4/2020,Plate Pie Foil,3346,Xianrendu,regular
+356,18/1/2021,Tomato - Tricolor Cherry,3898,Ea Drăng,premiun
+357,3/8/2020,Shallots,3649,Asikkala,gold
+358,15/3/2020,Fondant - Icing,1191,Fukuyama,
+359,26/9/2020,Ecolab Digiclean Mild Fm,4718,Puerto Berrío,regular
+360,19/8/2020,Vinegar - Balsamic,3642,Herong,premiun
+361,21/4/2020,Apricots - Dried,3462,Primero de Enero,gold
+362,9/7/2020,"Lid - 10,12,16 Oz",1115,Pojok,premiun
+363,10/7/2020,Jam - Apricot,2924,Aulnay-sous-Bois,gold
+364,15/5/2020,Devonshire Cream,2207,Guangning,gold
+365,21/2/2020,"Tart Shells - Savory, 4",4994,Santana de Parnaíba,gold
+366,25/5/2020,Wine - Tribal Sauvignon,3739,As Sūq al Jadīd,regular
+367,29/7/2020,Cake - Bande Of Fruit,3662,Gubuk Daya,regular
+368,6/4/2020,"Wine - White, Ej Gallo",4462,Yukuhashi,
+369,13/2/2020,Energy Drink - Redbull 355ml,3411,Ilesa,premiun
+370,28/5/2020,Shopper Bag - S - 4,3563,Ciganaria,regular
+371,8/4/2020,"Pepper - Black, Ground",1090,Morazán,gold
+372,1/10/2020,Anchovy Fillets,4783,Kanal,regular
+373,13/7/2020,Cheese - Augre Des Champs,2104,Berëzovyy,premiun
+374,1/6/2020,Flavouring - Orange,2416,Lashma,gold
+375,25/5/2020,"Pork - Ham, Virginia",,,premiun
+376,30/12/2020,Puree - Strawberry,3684,Karangmulya,premiun
+377,19/6/2020,"Wine - Sherry Dry Sack, William",3959,Tifni,premiun
+378,24/9/2020,Wine - Prosecco Valdobienne,,,regular
+379,13/4/2020,Sprouts - China Rose,2212,Wāling,gold
+380,16/8/2020,Energy - Boo - Koo,1459,Stěbořice,premiun
+381,3/5/2020,,2991,Charlotte,regular
+382,10/7/2020,Wine - Barbera Alba Doc 2001,4377,Yaroslavl,regular
+383,28/8/2020,Jagermeister,3448,Sinamar,gold
+384,5/9/2020,Scallops - Live In Shell,1810,Changqiao,regular
+385,25/9/2020,Chicken - Wieners,4198,Maple Ridge,gold
+386,13/12/2020,Flour - Semolina,4941,Qiankou,gold
+387,27/3/2020,Cheese - Cream Cheese,1615,Cai Doi Vam,premiun
+388,5/1/2021,"Mushroom - Shitake, Dry",1722,Villa Ángela,regular
+389,27/7/2020,"Soup - Campbells, Lentil",2176,Thoen,premiun
+390,19/5/2020,Hipnotiq Liquor,2776,Qixing,gold
+391,18/2/2020,Oranges,1200,Cimuncang,premiun
+392,1/10/2020,Wine - Two Oceans Sauvignon,4936,Sīdī Sālim,gold
+393,26/9/2020,"Wine - Red, Harrow Estates, Cab",4057,Hino,regular
+394,17/12/2020,Cake - Cake Sheet Macaroon,,,premiun
+395,19/12/2020,Soup - Campbells Beef Noodle,1560,Padamulya,premiun
+396,12/2/2020,Octopus,2074,Asopía,regular
+397,27/4/2020,Muffin - Carrot Individual Wrap,3676,Markópoulo Oropoú,premiun
+398,28/2/2020,Cornflakes,1744,Homa Bay,regular
+399,27/3/2020,Plasticknivesblack,4527,Shanyang,premiun
+400,,Soup - Campbells Tomato Ravioli,2372,At Taḩālif,regular
+401,4/1/2021,Campari,2468,Khudoyelanskoye,gold
+402,21/5/2020,Lid Tray - 12in Dome,3821,Cherbourg-Octeville,regular
+403,28/5/2020,,4453,Tsapêraī,premiun
+404,19/3/2020,Beef - Inside Round,4961,Guoxiang,gold
+405,30/4/2020,Cognac - Courvaisier,2582,Hamilton,regular
+406,26/10/2020,Lid - 16 Oz And 32 Oz,4199,Primero de Enero,gold
+407,1/2/2021,Sugar - Invert,3600,Nanfeng,gold
+408,1/2/2021,Carbonated Water - White Grape,4913,Otrado-Kubanskoye,gold
+409,3/4/2020,Sauce - Soy Low Sodium - 3.87l,1830,Biggar,premiun
+410,16/11/2020,Cafe Royale,3791,Esperalvillo,premiun
+411,27/8/2020,"Bread - Rolls, Corn",1093,Uiasa,gold
+412,23/1/2021,Icecream Cone - Areo Chocolate,4188,Kota Kinabalu,regular
+413,9/8/2020,"Pasta - Elbows, Macaroni, Dry",4625,Lins,regular
+414,29/11/2020,Danishes - Mini Raspberry,3810,Anao,gold
+415,1/4/2020,"Pasta - Lasagna, Dry",4196,Lazaro Cardenas,regular
+416,29/11/2020,Beans - Kidney White,3073,Kamsack,regular
+417,3/9/2020,Cheese - Grana Padano,2023,Nanzhao,regular
+418,24/6/2020,Oregano - Fresh,2894,Aksha,
+419,18/4/2020,Sour Puss Sour Apple,3182,Jembangan,regular
+420,12/9/2020,Stock - Fish,4607,Baoziba,gold
+421,4/11/2020,Trueblue - Blueberry,1571,Sovetskiy,regular
+422,16/9/2020,French Pastries,1028,Luoshan,regular
+423,10/6/2020,Pork - Ham Hocks - Smoked,3012,Canchayllo,regular
+424,13/5/2020,Cheese - Taleggio D.o.p.,1042,Walnut Grove,premiun
+425,11/1/2021,,3751,Dalam,
+426,19/4/2020,Boogies,4601,Tunjë,regular
+427,19/1/2021,Remy Red,4174,Priozërsk,premiun
+428,26/6/2020,,4448,Thuận Nam,regular
+429,29/5/2020,Cheese - Shred Cheddar / Mozza,1029,Tufang,gold
+430,6/3/2020,Chips Potato All Dressed - 43g,,,gold
+431,31/8/2020,Asparagus - Mexican,4315,Nenotes,premiun
+432,6/10/2020,"Nut - Chestnuts, Whole",4956,Toutuo,premiun
+433,23/11/2020,Chicken - Whole,3145,Iperó,regular
+434,11/3/2020,Rice - Sushi,4548,San Francisco,gold
+435,6/1/2021,"Artichokes - Knobless, White",2741,Dahuang,regular
+436,5/12/2020,Glass - Juice Clear 5oz 55005,4974,Obertyn,premiun
+437,12/3/2020,Lid Coffeecup 12oz D9542b,3946,San Juan,premiun
+438,5/8/2020,Ecolab - Balanced Fusion,2382,Xinming,gold
+439,31/10/2020,Shrimp - Black Tiger 26/30,4647,Ongandjera,premiun
+440,7/5/2020,"Pasta - Tortellini, Fresh",1804,Mino,regular
+441,23/8/2020,Wine - Zinfandel California 2002,4343,Lipu,gold
+442,14/4/2020,"Cherries - Maraschino,jar",2178,Carpalho,regular
+443,19/2/2020,Flour - Whole Wheat,1051,Caracol,regular
+444,25/8/2020,Wine - Port Late Bottled Vintage,2511,Pasirputih,premiun
+445,19/7/2020,Swiss Chard,1048,Santa Maria,gold
+446,15/2/2020,Coffee - Decaffeinato Coffee,2525,Canmore,premiun
+447,5/4/2020,Tray - 12in Rnd Blk,2073,Tangalla,gold
+448,20/6/2020,Beef - Bresaola,4281,Obo,
+449,4/8/2020,"Cheese - Brie, Triple Creme",4113,Itupiranga,gold
+450,30/1/2021,Apple - Northern Spy,4416,Ningxin,
+451,12/6/2020,Tuna - Sushi Grade,3766,Perštejn,regular
+452,2/6/2020,"Vodka - Hot, Lnferno",4366,Bīrganj,gold
+453,10/9/2020,Sardines,2225,Niedrzwica Duża,premiun
+454,20/4/2020,Bread Crumbs - Panko,1604,La Roche-sur-Yon,premiun
+455,31/3/2020,Pate - Peppercorn,4815,Kedungbanteng Krajan,regular
+456,9/8/2020,Wine - Jaboulet Cotes Du Rhone,4069,Satsumasendai,premiun
+457,24/9/2020,Spice - Greek 1 Step,1023,Kaznějov,premiun
+458,2/5/2020,Chocolate - Feathers,4329,Xishiqiao,premiun
+459,8/9/2020,,2015,Shashi,regular
+460,19/7/2020,Wine - White Cab Sauv.on,1832,El Paso,gold
+461,22/3/2020,Wine - Pinot Grigio Collavini,2755,Sidaurip,regular
+462,26/5/2020,"Pepsi - Diet, 355 Ml",1719,Tebon,premiun
+463,26/7/2020,Cheese - Blue,1200,La Banda,gold
+464,28/8/2020,Pickles - Gherkins,2748,Santa Lucía Cotzumalguapa,gold
+465,25/5/2020,Pears - Anjou,1227,Khuma,regular
+466,30/9/2020,Oil - Grapeseed Oil,4994,Xunzhong,gold
+467,15/2/2020,Flour - Fast / Rapid,4346,Shengze,regular
+468,24/1/2021,Salmon Steak - Cohoe 6 Oz,4800,Figueira Castelo Rodrigo,
+469,28/4/2020,Chips Potato All Dressed - 43g,4072,Shanling,premiun
+470,23/8/2020,Cactus Pads,1255,Chang’an,gold
+471,4/1/2021,Broom Handle,4949,Sępólno Krajeńskie,gold
+472,15/12/2020,Pepper - Jalapeno,4843,Newmarket,premiun
+473,18/10/2020,Plate Foam Laminated 9in Blk,2765,Kufayrit,regular
+474,17/7/2020,Table Cloth 62x114 White,4573,Xialaba,gold
+475,28/3/2020,Pastry - French Mini Assorted,3714,Koźmin Wielkopolski,regular
+476,27/7/2020,Crab - Meat Combo,3712,Qarqaraly,premiun
+477,25/7/2020,"Yogurt - Banana, 175 Gr",1737,Rive-de-Gier,gold
+478,7/8/2020,Lamb - Whole Head Off,2212,Sobreira,gold
+479,15/11/2020,Grapefruit - Pink,2893,San Quintin,regular
+480,28/11/2020,"Oil - Olive, Extra Virgin",4557,Danderyd,gold
+481,21/3/2020,Pasta - Cheese / Spinach Bauletti,4374,Jundiaí,gold
+482,13/10/2020,Noodles - Steamed Chow Mein,4429,Tomari,gold
+483,15/10/2020,"Veal - Brisket, Provimi,bnls",3983,Nezamyslice,gold
+484,8/3/2020,Cake - Mini Cheesecake,4714,Sorokino,regular
+485,12/8/2020,,1358,Piła,gold
+486,18/6/2020,Chickhen - Chicken Phyllo,4260,Qingfenglin,regular
+487,,Wine - Vouvray Cuvee Domaine,3321,Alejo Ledesma,premiun
+488,27/1/2021,Bread Crumbs - Panko,1603,Tola,regular
+489,7/5/2020,Chinese Foods - Pepper Beef,2637,Yangchao,premiun
+490,25/4/2020,"Lobster - Baby, Boiled",3461,Tegalrejo,regular
+491,14/11/2020,V8 - Tropical Blend,,,premiun
+492,29/10/2020,Kirsch - Schloss,1314,Damascus,regular
+493,7/1/2021,Cheese - Cambozola,1506,Pagatan,gold
+494,14/5/2020,Ginsing - Fresh,1142,Bentar,
+495,28/5/2020,Cabbage Roll,1241,Ranua,gold
+496,14/3/2020,Sour Puss Sour Apple,1941,Airmolek,premiun
+497,4/2/2021,Bouillion - Fish,3903,Strelka,regular
+498,7/10/2020,Ginger - Crystalized,2413,Kanigorokrajan,regular
+499,13/1/2021,"Beef - Tenderlion, Center Cut",2472,San,premiun
+500,2/10/2020,"Soup - Clam Chowder, Dry Mix",3840,Solna,regular
+501,17/2/2020,Kellogs Cereal In A Cup,2423,Ban Khlong Bang Sao Thong,gold
+502,12/6/2020,Kiwi,3574,Charlottesville,regular
+503,13/3/2020,Beer - Sleemans Cream Ale,4854,Chenārān,gold
+504,30/9/2020,Wine - German Riesling,1821,Uberlândia,gold
+505,8/10/2020,"Coffee - Colombian, Portioned",4922,Nangang,gold
+506,29/7/2020,Flour - Whole Wheat,3796,Hoopstad,gold
+507,31/7/2020,"Beef - Cooked, Corned",1207,Honggang,premiun
+508,22/3/2020,Wine - Piper Heidsieck Brut,4571,Jiutai,premiun
+509,22/6/2020,Pepper - Red Chili,2246,Narol,premiun
+510,14/11/2020,Cranberries - Dry,3788,Buraen,gold
+511,25/7/2020,"Wine - Red, Lurton Merlot De",3747,Lashkar Gāh,gold
+512,14/9/2020,"Melon - Watermelon, Seedless",4818,Hongqiao,gold
+513,1/5/2020,Wine - Pinot Noir Latour,2405,São Julião do Tojal,regular
+514,26/5/2020,Chocolate - White,3746,Dubrovka,gold
+515,11/6/2020,Fiddlehead - Frozen,4654,Kairouan,regular
+516,26/11/2020,Chips Potato Reg 43g,1841,Haicheng,gold
+517,8/5/2020,Irish Cream - Baileys,3156,Mando,gold
+518,31/8/2020,Horseradish Root,4752,Cantaura,gold
+519,15/11/2020,Mayonnaise - Individual Pkg,2353,Cruz,regular
+520,21/1/2021,Halibut - Steaks,3138,Portalegre,gold
+521,23/9/2020,"Beef - Bones, Cut - Up",2409,Wolomarang,premiun
+522,9/7/2020,Sansho Powder,1376,Boa Esperança,gold
+523,12/4/2020,Pepper - Sorrano,2306,Srbica,premiun
+524,27/7/2020,"Tuna - Canned, Flaked, Light",1312,Eenhana,gold
+525,3/9/2020,Liqueur - Melon,4191,Sapareva Banya,gold
+526,29/10/2020,Cookie Dough - Chunky,1717,Battambang,regular
+527,13/12/2020,Carbonated Water - Blackcherry,2853,Andahuaylillas,gold
+528,19/6/2020,,1734,Stutterheim,gold
+529,24/3/2020,Alize Red Passion,3184,San José,gold
+530,14/4/2020,Bread - Triangle White,3756,Pereira,regular
+531,6/7/2020,Buttons,2816,Habingkloang,gold
+532,26/3/2020,Pork - Sausage Casing,4823,Goascorán,gold
+533,15/7/2020,Spice - Greek 1 Step,4250,Novotroitsk,gold
+534,10/10/2020,Sesame Seed,4380,Yinla,premiun
+535,2/6/2020,"Lettuce - Mini Greens, Whole",3704,Surami,regular
+536,24/1/2021,Basil - Thai,2934,Santa Cruz del Sur,gold
+537,25/10/2020,Salad Dressing,3215,Frederiksberg,gold
+538,25/8/2020,Truffle Shells - Semi - Sweet,4509,Zaokskiy,gold
+539,26/5/2020,Spring Roll Wrappers,3257,Opatovice nad Labem,regular
+540,15/1/2021,Persimmons,3953,Guadalupe,premiun
+541,17/3/2020,Plasticspoonblack,2488,Bojonglarang,gold
+542,23/11/2020,Muffin Batt - Choc Chk,3910,Harper,premiun
+543,25/11/2020,Sauce - Vodka Blush,3529,Cileunyi,
+544,9/1/2021,,,,regular
+545,17/8/2020,Wine - Champagne Brut Veuve,3934,Manorom,regular
+546,22/5/2020,Longos - Chicken Wings,1964,Youghal,gold
+547,3/2/2021,Sproutsmustard Cress,4580,Oruro,premiun
+548,20/8/2020,Venison - Denver Leg Boneless,2699,Krajan Dua Patempuran,regular
+549,10/1/2021,Pork - Shoulder,2563,Kiuteta,regular
+550,26/11/2020,Eggplant - Asian,3823,Mercier,
+551,10/9/2020,Pasta - Ravioli,2894,Žamberk,regular
+552,27/12/2020,"Cup - 6oz, Foam",1961,Buenavista,premiun
+553,25/1/2021,White Baguette,4444,Novokuz’minki,regular
+554,29/9/2020,Pork - Belly Fresh,,,regular
+555,21/8/2020,Filter - Coffee,2817,Ushibuka,premiun
+556,23/6/2020,Bagel - Plain,2033,Perovo,gold
+557,8/4/2020,"Red Snapper - Fresh, Whole",4015,Camacha,regular
+558,23/12/2020,,2920,Francisco I Madero,premiun
+559,14/11/2020,Chinese Foods - Chicken,4302,La Salud,regular
+560,24/4/2020,Crackers - Trio,4801,Xitiangezhuang,regular
+561,28/2/2020,Canada Dry,2158,Santa Bárbara,premiun
+562,18/6/2020,Beer - Muskoka Cream Ale,1069,Kungsbacka,regular
+563,,,3433,Examília,gold
+564,25/8/2020,"Lamb - Leg, Bone In",4629,Cicurug,gold
+565,15/1/2021,Cookie - Oatmeal,3413,Goléré,gold
+566,10/12/2020,Maple Syrup,3798,Kutorejo,premiun
+567,26/7/2020,Sugar - Monocystal / Rock,4072,Loa Janan,premiun
+568,,Soap - Pine Sol Floor Cleaner,1650,Calabaca,premiun
+569,,,1434,Sainte-Anne-des-Plaines,regular
+570,23/5/2020,Bread - Bistro White,1584,Thị Trấn Yên Châu,regular
+571,4/11/2020,Shallots,2103,Lakhdenpokh’ya,premiun
+572,27/3/2020,Wine - Magnotta - Pinot Gris Sr,3886,Árgos,gold
+573,30/3/2020,Danishes - Mini Raspberry,1603,Wabana,premiun
+574,8/12/2020,Irish Cream - Baileys,2280,Mont-de-Marsan,gold
+575,,"Lamb - Leg, Diced",3095,Vlasenica,regular
+576,8/9/2020,French Kiss Vanilla,2708,Bujanovac,gold
+577,15/7/2020,Arctic Char - Fillets,2078,Jilong,premiun
+578,28/10/2020,Pastry - Raisin Muffin - Mini,1312,Křižanov,premiun
+579,5/10/2020,Pepper - Scotch Bonnet,4759,Khulo,premiun
+580,23/9/2020,Oil - Grapeseed Oil,3122,Duobaoshan,premiun
+581,26/11/2020,Beer - Mcauslan Apricot,4395,Benito Juarez,premiun
+582,9/6/2020,Mustard Prepared,3341,Aurora,regular
+583,31/3/2020,"Pasta - Fusili, Dry",2289,Bajo Pichanaqui,regular
+584,,Pate - Liver,4671,Le Mans,gold
+585,16/1/2021,Corn Shoots,2237,Vũ Thư,gold
+586,22/8/2020,Wine - Winzer Krems Gruner,2518,El Cuy,regular
+587,18/5/2020,"Pasta - Rotini, Colour, Dry",3237,Itápolis,regular
+588,14/9/2020,"Orange - Canned, Mandarin",1540,Puspajaya,premiun
+589,27/6/2020,Bagel - Ched Chs Presliced,2052,Ijero-Ekiti,regular
+590,1/2/2021,Peach - Fresh,4701,Norwalk,regular
+591,10/9/2020,"Chicken - White Meat, No Tender",3374,Srostki,premiun
+592,21/1/2021,,1470,Kota Kinabalu,premiun
+593,18/11/2020,Cape Capensis - Fillet,3610,Dalubian,regular
+594,8/2/2021,"Wine - Mas Chicet Rose, Vintage",4831,Kourou,gold
+595,27/9/2020,Salmon - Canned,3690,Juuka,gold
+596,7/1/2021,"Ecolab - Orange Frc, Cleaner",2948,Kapsan-ŭp,premiun
+597,7/11/2020,Glaze - Clear,3502,Miaoyu,premiun
+598,21/7/2020,Egg Patty Fried,4747,Huangjiazhai,gold
+599,5/3/2020,Beer - Rickards Red,3345,Lokoja,regular
+600,,Blueberries - Frozen,4553,Topolovgrad,premiun
+601,16/8/2020,Chips - Potato Jalapeno,4131,Vrbovec,gold
+602,14/8/2020,,3533,Maksatikha,gold
+603,13/1/2021,Scallops - In Shell,2328,Dawan,premiun
+604,4/1/2021,Beer - Sleemans Honey Brown,4577,Kamphaeng Phet,premiun
+605,2/4/2020,Bouillion - Fish,4930,Sundsvall,regular
+606,15/9/2020,Gelatine Leaves - Envelopes,4438,Chernelytsya,gold
+607,18/5/2020,,2290,Djibouti,regular
+608,4/7/2020,"Wine - Red, Marechal Foch",1087,Isesaki,gold
+609,11/4/2020,"Split Peas - Green, Dry",1703,Hufang,gold
+610,15/2/2020,"Stock - Beef, White",4544,Krajan,regular
+611,22/3/2020,"Nut - Pecan, Halves",1668,Taouloukoult,premiun
+612,12/6/2020,Pan Grease,3546,Trbovlje,premiun
+613,28/11/2020,Oil - Olive Bertolli,,,regular
+614,17/2/2020,"Beef - Outside, Round",1759,Várzea Paulista,premiun
+615,7/9/2020,Chicken - Livers,1141,Melbourne,regular
+616,13/4/2020,"Wine - Sherry Dry Sack, William",3809,Altkirch,gold
+617,19/3/2020,"Wine - Red, Metus Rose",4072,Zhutian,gold
+618,8/11/2020,Tarts Assorted,2763,Paingar,gold
+619,25/4/2020,"Beef - Ox Tail, Frozen",1368,Roma,gold
+620,18/3/2020,Grouper - Fresh,3522,Baugo,gold
+621,31/5/2020,Cake - Bande Of Fruit,3751,Estrada,premiun
+622,7/1/2021,Cheese - St. Paulin,2425,Xiashan,premiun
+623,20/2/2020,Scallops - 20/30,4220,Ludwigshafen am Rhein,regular
+624,2/7/2020,Dc Hikiage Hira Huba,3883,Rego,gold
+625,15/4/2020,,4674,Watublapi,premiun
+626,25/9/2020,Oneshot Automatic Soap System,2264,Raszków,premiun
+627,25/8/2020,Table Cloth 62x120 White,4629,Cabreúva,premiun
+628,26/1/2021,Anchovy Fillets,2770,Qaxbaş,premiun
+629,5/11/2020,"Wine - White, Pinot Grigio",4065,Aimadamodo,
+630,12/1/2021,Sauerkraut,2751,Wangshi,premiun
+631,27/1/2021,Gatorade - Fruit Punch,3556,Ōmura,
+632,9/4/2020,Higashimaru Usukuchi Soy,4303,Osilnica,premiun
+633,19/3/2020,Lumpfish Black,4825,Kompaniyivka,gold
+634,2/12/2020,Melon - Honey Dew,3077,Tangjin,regular
+635,18/2/2020,Dill Weed - Dry,,,premiun
+636,9/4/2020,"Asparagus - White, Canned",1399,Tyresö,regular
+637,4/9/2020,Pepper - Red Thai,3073,Simão Dias,regular
+638,27/1/2021,Bread - Assorted Rolls,4354,Jiadingzhen,
+639,20/7/2020,,1092,Zyuzino,premiun
+640,25/9/2020,Sugar - Individual Portions,4012,Ayolas,gold
+641,26/9/2020,Cheese - Bakers Cream Cheese,1546,Takari,regular
+642,13/5/2020,Wine - Magnotta - Bel Paese White,4061,Bunisari,premiun
+643,19/7/2020,Nut - Pumpkin Seeds,2050,Ganyesa,gold
+644,3/1/2021,Cheese - Shred Cheddar / Mozza,1773,Dogondoutchi,regular
+645,19/6/2020,Rice - Jasmine Sented,1358,Vila Chã,gold
+646,18/7/2020,Silicone Parch. 16.3x24.3,,,premiun
+647,7/4/2020,"Bread - Roll, Italian",1844,Tembau,premiun
+648,13/7/2020,Cookie Double Choco,4134,Banyue,premiun
+649,30/9/2020,Oxtail - Cut,1521,Wucun,gold
+650,15/2/2020,Cream - 18%,2049,Carolina,gold
+651,15/4/2020,Beer - Mcauslan Apricot,3082,Bakersfield,gold
+652,12/6/2020,"Nestea - Ice Tea, Diet",2472,Kamaishi,premiun
+653,21/3/2020,Cocoa Powder - Dutched,3632,Heping,premiun
+654,14/5/2020,,1757,Jiuxian,gold
+655,3/2/2021,"Iced Tea - Lemon, 460 Ml",2515,Kochetok,gold
+656,11/8/2020,Potatoes - Peeled,2756,Cabrobó,regular
+657,1/4/2020,"Crab - Blue, Frozen",4999,Lysice,regular
+658,23/2/2020,Bols Melon Liqueur,1148,Kuczbork-Osada,regular
+659,8/10/2020,Cornflakes,4430,Lanyi,regular
+660,25/5/2020,"Brocolinni - Gaylan, Chinese",4108,Zhonglong,premiun
+661,21/4/2020,Broccoli - Fresh,1350,Pelópion,regular
+662,26/12/2020,"Lid - Translucent, 3.5 And 6 Oz",3008,Sinacaban,premiun
+663,29/5/2020,Fib N9 - Prague Powder,3008,Citarik,gold
+664,8/8/2020,,1240,Vysočany,premiun
+665,2/5/2020,"Shrimp - Baby, Warm Water",4464,Pongol,gold
+666,15/8/2020,Noodles - Steamed Chow Mein,2381,Amolatar,gold
+667,30/1/2021,Steampan - Lid For Half Size,1065,Brijest,premiun
+668,18/1/2021,Appetizer - Shrimp Puff,3259,Gò Quao,regular
+669,2/1/2021,Sprouts - China Rose,2664,Toyós,regular
+670,18/10/2020,"Sparkling Wine - Rose, Freixenet",2934,Fentange,regular
+671,3/1/2021,Fork - Plastic,3795,Korenovsk,regular
+672,10/3/2020,Wine - Magnotta - Pinot Gris Sr,2268,Baiju,premiun
+673,29/5/2020,,2296,San Vicente,gold
+674,31/3/2020,"Cheese - Cheddar, Mild",3429,Brengkok,premiun
+675,19/10/2020,Chocolate - Milk,1310,Liuduzhai,gold
+676,26/10/2020,Bacardi Breezer - Tropical,1240,Lazarat,regular
+677,2/7/2020,Cookies - Englishbay Chochip,3809,Yudai,premiun
+678,15/1/2021,,,,premiun
+679,24/9/2020,Cranberries - Fresh,3064,Gutian,regular
+680,9/10/2020,"Soup - Knorr, Country Bean",2782,Santa Ana,premiun
+681,13/7/2020,Compound - Orange,4762,Carregado,premiun
+682,18/6/2020,"Loaf Pan - 2 Lb, Foil",4609,Horton,premiun
+683,22/4/2020,Halibut - Steaks,2088,Novozybkov,gold
+684,7/9/2020,Beer - Muskoka Cream Ale,4787,Patrocínio,gold
+685,3/4/2020,Sage - Fresh,4856,Viana,regular
+686,17/5/2020,Passion Fruit,,,regular
+687,14/10/2020,"Stock - Veal, White",1517,Iperu,regular
+688,3/12/2020,"Sugar - Brown, Individual",1675,Esquina,
+689,28/5/2020,Mousse - Mango,4032,Xiaoguan,premiun
+690,23/6/2020,Tart - Butter Plain Squares,4619,Sosnovka,premiun
+691,11/8/2020,Wine - Ice Wine,2750,Aramecina,regular
+692,20/2/2020,Oil - Pumpkinseed,3165,Sandao,regular
+693,20/1/2021,Wine - Chardonnay Mondavi,4895,Kari,regular
+694,3/12/2020,"Syrup - Monin, Swiss Choclate",4698,El Monte,regular
+695,,"Plate - Foam, Bread And Butter",1136,Waipawa,regular
+696,8/6/2020,"Quail - Whole, Bone - In",2335,Xiguantun Muguzu Manzuxiang,premiun
+697,26/10/2020,"Cod - Salted, Boneless",4992,Kyzyl-Kyya,regular
+698,4/4/2020,Sage Derby,1478,Dístomo,gold
+699,2/3/2020,Cake - Bande Of Fruit,3801,White River,regular
+700,29/12/2020,Coffee - Decaffeinato Coffee,4207,Huancapi,premiun
+701,10/11/2020,Steampan - Lid For Half Size,1001,Killumney,gold
+702,28/11/2020,Cream Of Tartar,1607,Cravinhos,premiun
+703,20/9/2020,Kellogs Raisan Bran Bars,4980,Tursunzoda,gold
+704,8/4/2020,Oil - Canola,4862,Pakuranga,premiun
+705,20/7/2020,Eggplant Italian,2403,Agbani,regular
+706,9/11/2020,"Vermacelli - Sprinkles, Assorted",1272,Timeng,regular
+707,3/7/2020,Halibut - Fletches,2362,Yāsūf,regular
+708,11/12/2020,Squeeze Bottle,1085,Kazo,regular
+709,18/6/2020,Soup - Campbells Tomato Ravioli,1102,Sangallaya,regular
+710,4/11/2020,Wine - Carmenere Casillero Del,2853,Kara,premiun
+711,28/4/2020,Ginsing - Fresh,2455,Kushchëvskaya,gold
+712,4/6/2020,Flour - Bread,1188,Bërxull,gold
+713,31/12/2020,Sage Ground Wiberg,2486,Načeradec,
+714,15/9/2020,Haggis,1304,Kriel,regular
+715,13/8/2020,Longos - Chicken Wings,2954,Asker,gold
+716,,Banana - Leaves,3956,Shymkent,gold
+717,3/8/2020,Lamb - Shanks,2966,Bankim,premiun
+718,15/4/2020,Cheese - Swiss,4891,Metulla,gold
+719,6/5/2020,Macaroons - Two Bite Choc,1335,Mrzeżyno,regular
+720,19/9/2020,Oneshot Automatic Soap System,3620,Shangdian,gold
+721,26/2/2020,"Cheese - Brie, Triple Creme",1399,Khlong Khuean,regular
+722,4/2/2021,,1691,Kunyang,regular
+723,17/6/2020,Smoked Paprika,4815,El Espino,regular
+724,18/1/2021,Pork - Smoked Back Bacon,3137,Sindangheula,gold
+725,31/10/2020,Chef Hat 20cm,2051,Tabango,gold
+726,3/5/2020,Lime Cordial - Roses,2845,Larvik,premiun
+727,22/5/2020,Dill Weed - Dry,3905,Łękawica,premiun
+728,27/6/2020,"Beans - Kidney, Red Dry",1820,Mombok,premiun
+729,10/5/2020,Sherry - Dry,4030,Kogon,premiun
+730,9/8/2020,Lamb - Rack,4803,Zliv,regular
+731,26/2/2020,Russian Prince,1739,Ramos West,premiun
+732,12/12/2020,Bread - Sour Sticks With Onion,2292,Umm as Summāq,regular
+733,25/10/2020,Pepper - Sorrano,2376,Sufang,premiun
+734,23/2/2020,Oven Mitts - 15 Inch,3743,Dolna Banya,regular
+735,23/1/2021,Nestea - Iced Tea,2824,Čelopek,premiun
+736,10/1/2021,Tomato Puree,3777,Hufeng,premiun
+737,27/12/2020,Spice - Paprika,1971,Torino,
+738,31/5/2020,"Veal - Inside Round / Top, Lean",4350,Vykhino-Zhulebino,premiun
+739,18/11/2020,Sauce - Soy Low Sodium - 3.87l,3143,Tangkanpulit,regular
+740,14/8/2020,Versatainer Nc - 9388,3923,Sindangsari,
+741,29/6/2020,Coconut - Whole,4515,Bremen,premiun
+742,4/11/2020,"Lamb - Racks, Frenched",,,regular
+743,6/5/2020,Beets - Pickled,4664,Yanjiang,gold
+744,15/12/2020,Appetizer - Tarragon Chicken,1957,Yinping,regular
+745,14/4/2020,Cookies - Englishbay Chochip,3680,Timbrangan,gold
+746,11/11/2020,Chips - Assorted,1838,Cariamanga,regular
+747,23/7/2020,Cloves - Ground,1760,Chernomorskiy,premiun
+748,23/4/2020,Foil - Round Foil,2777,Bolo,gold
+749,16/8/2020,,4326,Borabue,regular
+750,20/8/2020,Aspic - Light,3566,Kumberg,gold
+751,9/8/2020,,3853,Voskhod,regular
+752,3/6/2020,"Wine - Niagara,vqa Reisling",,,premiun
+753,21/12/2020,Tobasco Sauce,4043,Landivisiau,premiun
+754,14/3/2020,Soup - Cream Of Potato / Leek,2183,Kuragaki-kosugi,premiun
+755,22/12/2020,Rum - Mount Gay Eclipes,3297,Priboj,regular
+756,19/5/2020,Halibut - Steaks,2064,Perushtitsa,regular
+757,6/11/2020,Island Oasis - Pina Colada,3184,Chicago,gold
+758,5/8/2020,"Cheese - Woolwich Goat, Log",4261,Pamplona/Iruña,gold
+759,25/7/2020,"Beef - Tongue, Cooked",2695,Polanka Wielka,regular
+760,13/5/2020,Wasabi Powder,1258,Matina,gold
+761,3/11/2020,Compound - Orange,2681,Dolgoderevenskoye,gold
+762,19/7/2020,"Coffee - Colombian, Portioned",2117,København,gold
+763,14/5/2020,Sugar - Crumb,2093,Korolëv Stan,regular
+764,18/8/2020,Beans - Green,4924,Armação,premiun
+765,31/8/2020,Lid Coffeecup 12oz D9542b,3477,Sa‘sa‘,regular
+766,27/12/2020,Wine - Magnotta - Cab Franc,3423,Jaciara,gold
+767,9/11/2020,Soup - Tomato Mush. Florentine,3375,Tabatinga,gold
+768,5/7/2020,Flour - Semolina,4298,Jicun,gold
+769,28/1/2021,Flavouring - Orange,,,regular
+770,21/4/2020,Wine - Dubouef Macon - Villages,4823,Dalong,premiun
+771,6/7/2020,,2941,Quanjiang,gold
+772,19/3/2020,Kiwi Gold Zespri,4850,Cuozheqiangma,
+773,28/11/2020,Muffin Mix - Lemon Cranberry,4030,Muslyumovo,regular
+774,17/11/2020,Bread - Raisin,1807,Tivat,regular
+775,4/6/2020,Soup - Campbells Pasta Fagioli,2478,Jetaral,regular
+776,18/12/2020,Shrimp - 100 / 200 Cold Water,2718,Sertãozinho,gold
+777,30/4/2020,Foil Wrap,3037,Dĩ An,premiun
+778,24/2/2020,The Pop Shoppe - Lime Rickey,2790,Banjar Kawan,premiun
+779,19/2/2020,Lid Tray - 16in Dome,1361,Ishii,regular
+780,28/9/2020,"Sauce - Soya, Light",2510,Arjona,gold
+781,2/2/2021,Sesame Seed,3357,Arsen’yev,gold
+782,30/4/2020,Lidsoupcont Rp12dn,4648,Selydove,gold
+783,8/1/2021,Onions - Cooking,1663,Trá Mhór,regular
+784,6/11/2020,Lamb Rack Frenched Australian,2608,Weitian,gold
+785,4/1/2021,"Wine - White, Lindemans Bin 95",2985,Miramar,premiun
+786,9/6/2020,,1842,Menzel Abderhaman,gold
+787,31/8/2020,Mushroom - White Button,3713,Alabat,premiun
+788,14/4/2020,Mangoes,3497,Huangling,
+789,29/8/2020,Cup - 4oz Translucent,3784,‘Uzeir,gold
+790,28/1/2021,"Champagne - Brights, Dry",1589,Brckovljani,regular
+791,28/1/2021,Chocolate - Chips Compound,1712,Neskaupstaður,premiun
+792,6/5/2020,"Tortillas - Flour, 10",2425,Lingbei,gold
+793,15/4/2020,Yucca,2616,Suizhong,regular
+794,9/9/2020,Hand Towel,3347,Guadalupe,regular
+795,11/7/2020,Lettuce - Sea / Sea Asparagus,2724,Camalote,gold
+796,29/3/2020,Capon - Whole,1046,Živinice,regular
+797,6/12/2020,"Pepper - Red, Finger Hot",4930,Hongshanzui,gold
+798,4/2/2021,Cake - Bande Of Fruit,4344,Gadžin Han,premiun
+799,1/1/2021,Eggs - Extra Large,4740,Middelburg,premiun
+800,28/3/2020,Cranberries - Dry,1843,Ruilin,premiun
+801,13/1/2021,"Beef - Tongue, Cooked",1804,Tianya,regular
+802,25/5/2020,Caviar - Salmon,2247,Chengyang,regular
+803,10/2/2021,Tomatoes Tear Drop Yellow,2430,Zyuzino,premiun
+804,17/1/2021,Garlic,4190,Kafue,premiun
+805,16/12/2020,Cocoa Butter,1408,Chengnan,premiun
+806,22/11/2020,Chips - Potato Jalapeno,1802,Messejana,regular
+807,12/9/2020,Jolt Cola - Electric Blue,2373,Carrasqueira,premiun
+808,,Veal - Sweetbread,3452,Manticao,gold
+809,18/10/2020,Dried Peach,1737,Termas de Río Hondo,regular
+810,22/10/2020,Mushroom - Porcini Frozen,4260,Sa'dah,
+811,12/11/2020,Pork - Hock And Feet Attached,3816,Lamalewo,premiun
+812,7/10/2020,Fennel,4262,Ningzhong,gold
+813,19/7/2020,Campari,3822,Lugo,regular
+814,15/2/2020,Coffee - 10oz Cup 92961,1444,Siwalan,
+815,21/12/2020,Yogurt - Plain,1141,Parnaíba,gold
+816,14/1/2021,Beets - Mini Golden,4343,Nacka,regular
+817,16/11/2020,Plate Foam Laminated 9in Blk,3422,Mstsislaw,premiun
+818,18/7/2020,Kiwano,2011,Cachoeiro de Itapemirim,premiun
+819,18/6/2020,Thyme - Fresh,4997,Ibarra,regular
+820,4/11/2020,"Pepper - Chillies, Crushed",1768,Rouen,gold
+821,9/4/2020,Wine - Chablis 2003 Champs,4965,Kopong,regular
+822,27/11/2020,"Wine - Niagara,vqa Reisling",2899,Santa Lucía,premiun
+823,9/9/2020,Steampan - Foil,3056,Sindangsari,regular
+824,30/8/2020,Ketchup - Tomato,1271,Vranisht,premiun
+825,19/9/2020,Extract Vanilla Pure,2914,Danidehe,regular
+826,13/12/2020,Coffee - Hazelnut Cream,2183,Skaryszew,gold
+827,30/11/2020,Green Scrubbie Pad H.duty,2514,Qinā,gold
+828,5/11/2020,Yokaline,3223,Montesson,gold
+829,13/1/2021,Fuji Apples,1767,Pietà,
+830,1/3/2020,Cakes Assorted,3246,Marsaxlokk,gold
+831,12/5/2020,Compound - Mocha,1284,Changtan,gold
+832,,Wine - Coteaux Du Tricastin Ac,4314,Central,
+833,16/10/2020,Beef - Eye Of Round,2060,Badajoz,premiun
+834,9/5/2020,Southern Comfort,4167,Bau,
+835,31/8/2020,Chicken Breast Halal,2739,Terezín,premiun
+836,30/10/2020,Potatoes - Fingerling 4 Oz,2145,Novoanninskiy,premiun
+837,21/7/2020,,3161,Zhouhu,gold
+838,25/3/2020,Sprouts - China Rose,4263,Sobinka,gold
+839,15/8/2020,White Fish - Filets,2508,Cilangkap,premiun
+840,6/8/2020,Baking Powder,4847,Xiaoduchuan,gold
+841,18/8/2020,Bagels Poppyseed,2641,Nangkasari,regular
+842,4/2/2021,"Water, Tap",3763,Saquarema,gold
+843,5/10/2020,Bread - Mini Hamburger Bun,3479,Putun,premiun
+844,23/11/2020,"Yogurt - Peach, 175 Gr",2798,Xuhang,premiun
+845,29/8/2020,"Cheese - Brie, Cups 125g",2492,Kurovskoye,regular
+846,30/4/2020,Food Colouring - Blue,1076,Huazangsi,premiun
+847,15/8/2020,Salmon Steak - Cohoe 6 Oz,2559,Zengji,gold
+848,25/2/2020,Nori Sea Weed,1778,Trongsa,premiun
+849,15/9/2020,Nut - Macadamia,1489,Bang Pahan,premiun
+850,29/2/2020,"Beef - Outside, Round",1545,Indaial,regular
+851,4/5/2020,Onions - Red Pearl,3383,Malaga,gold
+852,20/8/2020,Beer - True North Lager,4948,Tomari,gold
+853,17/1/2021,Table Cloth 91x91 Colour,2958,Ciudad Arce,regular
+854,20/2/2020,Wine - Saint Emilion Calvet,4833,Prado Siongco,regular
+855,6/6/2020,Wine - Kwv Chenin Blanc South,3438,Bellavista,gold
+856,4/11/2020,Beef Ground Medium,1046,Libog,gold
+857,2/9/2020,Tea - Decaf 1 Cup,2916,Changtu,gold
+858,27/5/2020,Salt And Pepper Mix - White,1318,Narva,regular
+859,5/11/2020,Truffle Shells - Semi - Sweet,3552,Dateng,regular
+860,25/2/2020,Longos - Lasagna Veg,2850,Daping,regular
+861,23/9/2020,Bagelers,2972,Vykhino-Zhulebino,premiun
+862,8/12/2020,Duck - Whole,3619,Kāleke Mandi,regular
+863,10/9/2020,Vinegar - Red Wine,2001,Yasenskaya,premiun
+864,17/6/2020,"Spoon - Soup, Plastic",1525,Anmore,premiun
+865,17/8/2020,Wine - Riesling Dr. Pauly,2903,Akunk’,gold
+866,11/8/2020,Shiratamako - Rice Flour,2590,Kisarazu,premiun
+867,10/6/2020,Soup Knorr Chili With Beans,4452,Melong,premiun
+868,12/4/2020,Pimento - Canned,2114,Hewa,gold
+869,19/2/2020,Water - Perrier,1243,Córdoba,premiun
+870,22/9/2020,Campari,3779,Doljo,gold
+871,17/3/2020,"Oil - Food, Lacquer Spray",3065,Muriaé,premiun
+872,,Syrup - Monin - Blue Curacao,3289,Velykyi Bereznyi,premiun
+873,24/9/2020,Chocolate - White,1100,Jönköping,gold
+874,11/10/2020,Smoked Paprika,4390,San Diego,gold
+875,19/9/2020,,1310,Mae Charim,regular
+876,5/8/2020,Flour Pastry Super Fine,4491,Yajiang,regular
+877,6/8/2020,"Bread - Roll, Canadian Dinner",4371,Wierzchowo,premiun
+878,23/7/2020,"Beef - Bones, Marrow",4412,Qiaozi,gold
+879,29/1/2021,Cream - 35%,1586,Blaye,premiun
+880,23/4/2020,Sping Loaded Cup Dispenser,1921,Xinyi,regular
+881,30/7/2020,,4832,Chodów,gold
+882,20/10/2020,Cake - Mini Cheesecake,3412,Gouveia,gold
+883,3/3/2020,"Chilli Paste, Sambal Oelek",4521,Lionel Town,gold
+884,8/4/2020,"Mushroom - Enoki, Fresh",3164,Strachówka,gold
+885,21/2/2020,Pork - Backs - Boneless,3846,Merke,premiun
+886,14/9/2020,Beef - Tender Tips,3438,Magaozhuang,premiun
+887,19/10/2020,"Pasta - Linguini, Dry",4551,Balin,gold
+888,31/5/2020,Sauce - Hoisin,3080,Arvika,gold
+889,26/1/2021,Garlic - Elephant,1827,Krzepice,premiun
+890,31/7/2020,"Lobster - Baby, Boiled",2089,Storuman,regular
+891,19/7/2020,Puree - Mocha,1990,Minjian,premiun
+892,3/8/2020,Beer - Upper Canada Lager,4700,Vidče,regular
+893,20/9/2020,V8 Splash Strawberry Kiwi,1586,Repušnica,gold
+894,27/5/2020,Snapple Raspberry Tea,3651,Boca Suno,regular
+895,24/4/2020,Pumpkin,2427,Lučko,regular
+896,14/5/2020,"Sauce - Soya, Dark",4431,Kano,regular
+897,17/3/2020,,2858,Chitungwiza,gold
+898,20/12/2020,"Trout - Hot Smkd, Dbl Fillet",4284,Ovalle,gold
+899,27/10/2020,Sansho Powder,2154,Four Cross Roads,gold
+900,17/10/2020,"Turnip - White, Organic",3947,Haylaastay,
+901,21/9/2020,Dry Ice,1395,San Guillermo,premiun
+902,22/10/2020,Frangelico,1256,Edsbyn,gold
+903,20/5/2020,"Shrimp - 16 - 20 Cooked, Peeled",4757,Szczytno,regular
+904,5/8/2020,Nut - Pumpkin Seeds,1259,Gwangtan,premiun
+905,2/4/2020,"Seedlings - Buckwheat, Organic",3184,Suchen,gold
+906,5/5/2020,Cheese - Blue,1331,Daet,gold
+907,22/3/2020,Oil - Macadamia,2677,Dallas,regular
+908,14/6/2020,Dikon,,,premiun
+909,19/2/2020,Pear - Halves,3953,Wojcieszków,premiun
+910,8/11/2020,Eggs - Extra Large,1053,Darong,regular
+911,19/10/2020,Goat - Whole Cut,4852,Chalandrítsa,gold
+912,22/12/2020,Sultanas,4480,Bastia,premiun
+913,5/7/2020,"Wine - Red, Colio Cabernet",,,gold
+914,5/9/2020,Sea Bass - Fillets,3532,Trenggulunan,
+915,10/3/2020,Orange Roughy 6/8 Oz,3007,Pont-Audemer,gold
+916,29/7/2020,Tuna - Fresh,2009,Nuamuzi,regular
+917,16/2/2020,Chocolate Eclairs,3006,Irákleion,premiun
+918,13/5/2020,Mace,3989,Dongpu,premiun
+919,1/10/2020,,3510,Taiping,regular
+920,3/9/2020,Juice - Ocean Spray Kiwi,1698,Nanlang,gold
+921,17/5/2020,,3212,Santa Cruz,premiun
+922,13/7/2020,Sambuca - Ramazzotti,3999,Vavozh,premiun
+923,21/3/2020,Soup - Campbells Chili Veg,1426,Estrada,regular
+924,9/1/2021,Beer - Upper Canada Lager,4313,Zhdanov,regular
+925,10/11/2020,Sauce - Caesar Dressing,2391,Krrabë,regular
+926,2/6/2020,,4179,Catalina,premiun
+927,23/5/2020,Creme De Cacao White,3778,Furukawa,premiun
+928,4/8/2020,Danishes - Mini Raspberry,4483,Kapotnya,regular
+929,13/3/2020,Table Cloth 81x81 White,3391,Saint Louis,regular
+930,6/8/2020,"Water - Spring Water, 355 Ml",3161,Gaborone,gold
+931,9/11/2020,Lamb - Whole Head Off,3029,Būrewāla,
+932,20/7/2020,Chicken - Livers,2535,Chengfeng,premiun
+933,12/1/2021,"Pasta - Fusili, Dry",4304,Tankhoy,regular
+934,3/10/2020,Tuna - Fresh,1236,Chaiyo,regular
+935,21/6/2020,Water - Spring 1.5lit,4396,Drosiá,premiun
+936,16/3/2020,Onions - Cooking,3940,Nova Venécia,
+937,24/3/2020,Ham Black Forest,2080,Mizur,premiun
+938,,Truffle Cups Green,4470,Caleufú,regular
+939,14/7/2020,Chicken - Whole Fryers,4583,Muravlenko,
+940,19/12/2020,Wine - Acient Coast Caberne,4939,Campoalegre,gold
+941,19/8/2020,Beans - Fava Fresh,4748,Hetai,regular
+942,13/2/2020,Vector Energy Bar,3448,Grande Prairie,premiun
+943,17/9/2020,Sage Derby,3944,Tibigan,premiun
+944,26/6/2020,Veal - Striploin,4655,Yam,regular
+945,30/4/2020,Steampan - Lid For Half Size,1159,Ashmūn,premiun
+946,21/6/2020,Chicken Breast Halal,4047,Salto,premiun
+947,23/6/2020,Zucchini - Yellow,2650,Turgun,regular
+948,21/6/2020,"Bread - Roll, Soft White Round",3305,Hongsihu,
+949,27/7/2020,Lamb - Loin Chops,3891,Samborondón,regular
+950,14/12/2020,Blue Curacao - Marie Brizard,3567,Ogod,premiun
+951,29/3/2020,Melon - Honey Dew,3747,Huangzhou,regular
+952,23/3/2020,Kahlua,1611,Rat Burana,premiun
+953,2/3/2020,"Pork - Tenderloin, Frozen",4415,Doruchów,premiun
+954,23/6/2020,"Water - Spring Water, 355 Ml",3634,Cové,gold
+955,29/8/2020,Wine - Alicanca Vinho Verde,1876,Sugcad,
+956,12/5/2020,Bread - Olive Dinner Roll,3959,Větřní,gold
+957,14/11/2020,Island Oasis - Pina Colada,1964,Koh Kong,regular
+958,11/10/2020,Bread - Mini Hamburger Bun,1858,Xinmin,gold
+959,1/9/2020,Oranges,2295,Valença,regular
+960,14/2/2020,Broom - Angled,2168,San Miguel,premiun
+961,29/8/2020,Chicken - Wieners,2740,Lanta Timur,regular
+962,9/8/2020,"Wine - Red, Cabernet Merlot",2997,Bagong Pagasa,premiun
+963,22/6/2020,Dooleys Toffee,3530,Ocuviri,regular
+964,1/6/2020,Sauce - Hollandaise,4072,Ruokolahti,
+965,2/11/2020,Wasabi Paste,2201,Cristóbal,regular
+966,18/12/2020,Higashimaru Usukuchi Soy,1956,Al Ḩawātah,premiun
+967,,Pork Ham Prager,4678,Yangtan,gold
+968,28/8/2020,Vacuum Bags 12x16,1456,Xinning,premiun
+969,9/6/2020,"Soup - Campbells, Creamy",2857,Orong,regular
+970,18/4/2020,Seabream Whole Farmed,4157,Sere,premiun
+971,26/7/2020,Pears - Anjou,1330,Kolomak,regular
+972,31/3/2020,"Rum - Spiced, Captain Morgan",1297,Checun,premiun
+973,11/3/2020,Bread Fig And Almond,4674,Zijin,regular
+974,2/9/2020,Peppercorns - Pink,4740,Tibillo,gold
+975,25/8/2020,Gloves - Goldtouch Disposable,4387,Maputsoe,gold
+976,7/8/2020,Beer - Upper Canada Light,1647,Sanhui,regular
+977,4/4/2020,Food Colouring - Red,1572,Şaḩneh,premiun
+978,27/9/2020,,4231,Buenavista,premiun
+979,13/2/2020,"Nut - Almond, Blanched, Whole",3527,Fonte do Feto,gold
+980,16/4/2020,Wine - Barossa Valley Estate,2468,Huitán,gold
+981,30/3/2020,Vinegar - Red Wine,3241,Sumberbening,premiun
+982,31/3/2020,Peach - Fresh,1127,Ergates,regular
+983,12/10/2020,,4796,Žemaičių Naumiestis,regular
+984,20/11/2020,"Tart Shells - Sweet, 4",1266,Guadalupe,regular
+985,24/3/2020,"Oil - Shortening,liqud, Fry",2407,Hekou,premiun
+986,14/3/2020,Lighter - Bbq,4609,Stepanovićevo,regular
+987,9/11/2020,Wine - Ej Gallo Sonoma,3814,Cicayur,regular
+988,5/5/2020,"Coffee - Colombian, Portioned",3132,Hatava,gold
+989,1/5/2020,Wine - Shiraz South Eastern,4937,Fëdorovskoye,
+990,3/6/2020,Tomato - Plum With Basil,4480,Yasnyy,gold
+991,9/10/2020,Pomello,2045,Żabia Wola,premiun
+992,11/3/2020,"Coconut - Shredded, Sweet",3038,Jiangbei,premiun
+993,28/1/2021,Sprouts Dikon,2978,Ōno-hara,regular
+994,5/1/2021,Quiche Assorted,4497,Odintsovo,premiun
+995,2/10/2020,"Beef - Rib Roast, Capless",4666,Kasungu,gold
+996,15/3/2020,Venison - Ground,4496,Italó,premiun
+997,7/4/2020,"Juice - Apple, 341 Ml",3405,La Poma,premiun
+998,14/8/2020,Wine - Beaujolais Villages,4238,Muaralembu,premiun
+999,5/10/2020,"Beef - Bones, Marrow",1968,Mont-Saint-Hilaire,premiun
+1000,29/10/2020,Potatoes - Mini Red,2569,San Felipe,premiun
